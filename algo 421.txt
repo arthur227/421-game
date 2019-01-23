@@ -1,0 +1,29 @@
+METTRE DANS UNE LISTE, LA FAIRE DÉCROISSANTE
+
+
+SI 421:
+    joueur qui fait pas 421 gagne 8
+Sinon si  111:
+    joueur qui fait pas gagne 7
+
+sinon si 2 dé qui font 1 sans le troisième:
+    Joueur pas fait gagne u(0) (Premier terme) jetons
+
+Sinon si 3 dé égaux sauf 111:
+    joueur pas fait gagne 3
+
+Sinon si 654; 543, 432, 321:
+    DOnner 2 jetton a l'adversaire
+
+sinon U(0) + u(1) + u(2) celui qui a le plus grand donne 1 jetons
+
+
+SI j1 > j2:
+    jetonDeJoueur2 = jetonDeJoueur2 + j1
+sinon:
+    jetonDeJoueur1 = jetonDeJoueur1 + j2
+
+
+
+
+    
